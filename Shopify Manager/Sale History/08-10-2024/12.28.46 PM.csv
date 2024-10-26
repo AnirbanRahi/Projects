@@ -1,0 +1,9 @@
+Sl,Category,Item,Price,Quantity,TotalPrice
+1,Appetizers,Chicken Wings,8.99,3,26.97
+2,Appetizers,Loaded Nachos,9.50,9,85.50
+3,Desserts,Ice Cream,4.99,1,4.99
+4,Drinks,Iced Tea,3.99,6,23.94
+5,Sauces,Gravy,1.00,5,5.00
+,,,,Total Amount,146.40
+,,,,Payment Received,200.45
+,,,,Money Changed,54.05

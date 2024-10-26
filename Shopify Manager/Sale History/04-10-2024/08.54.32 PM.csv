@@ -1,0 +1,7 @@
+Sl,Category,Item,Price,Quantity,TotalPrice
+1,Appetizers,Garlic Bread,4.99,2,9.98
+2,Child Menu,Mac & Cheese,5.99,4,23.96
+3,Desserts,Apple Pie,5.99,6,35.94
+,,,,Total Amount,69.88
+,,,,Paid Money,78.56
+,,,,Change Money,8.68
